@@ -74,3 +74,59 @@ body{
     background-color: lightsalmon;
     border: 2px solid rgb(238, 6, 6);
 }
+.input{
+    text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 56%;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+.section2{
+    margin-bottom: 120px;
+}
+
+.thirddiv{
+    margin: auto;
+  width: 40%;
+    align-items: center;
+    justify-content: center;
+}
+.thirdheading{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.thirdpara{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.thirdsectionheading{
+    margin-bottom: 20px;
+}
+.coloredbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 80px;
+}
+
+.section3box{
+    margin: 10px;
+    padding: 60px;
+    
+}
+#box1{
+    background-color: aliceblue;
+}
+#box2{
+    background-color:cornsilk;
+}
+#box3{
+    background-color:rgb(212, 253, 212);
+}
+.thirdsection{
+    margin-bottom: 120px;
+}
+
